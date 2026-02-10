@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Python, SQL, Linux etc**
 
-- 📫 How to reach me **arefinrafi27@gmail.com**
+- 📫 How to reach me **https://linktr.ee/arefinrafi**
 
 - ⚡ Fun fact **I enjoy to explore new ideas!**
 
