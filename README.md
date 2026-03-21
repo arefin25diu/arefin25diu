@@ -187,7 +187,3 @@ I aim to design scalable, efficient AI solutions and continuously improve throug
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Code%20is%20like%20magic%20—%20when%20you%20understand%20it,%20you%20can%20create%20anything.&fontSize=25&section=footer&reversal=true&animation=twinkling"/>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arefin25diu&show_icons=true&locale=en&layout=compact" alt="arefin25diu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arefin25diu&" alt="arefin25diu" /></p>
